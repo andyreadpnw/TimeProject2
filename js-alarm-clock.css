@@ -13,11 +13,11 @@
     margin: 0 auto;
     max-width: 350px;
     padding: 10px;
-    background: #000;
+    background: green;
     text-align: center;
   }
   #ctime .header {
-    color: #c61d1d;
+    color: grey;
   }
   #ctime .square {
     display: inline-block;
